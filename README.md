@@ -2,6 +2,8 @@ In the digital age, efficient interaction with documents is essential for produc
 
 ![image](https://github.com/user-attachments/assets/3ead803e-70f3-4756-8403-dcd137afb972)
 
+LANGCHAIN
+
 The Document Assistant tool allows users to upload document and engage in conversations about the content. The application features a streamlined user interface comprising a file upload section, a chat window, and an input area for user messages. Upon uploading a PDF, the content is processed and analyzed to enable intelligent responses to user queries.
 The backend of the application is powered by a LangChain framework, Request library which handles communicates with the Gemini API for natural language processing and file uploads . Users can submit questions or comments related to the Document content, and the Gemini API generates relevant responses, facilitating an interactive dialogue about the document.
 The project aims to enhance document accessibility and user engagement by combining document management with advanced conversational AI technology. This approach not only simplifies the retrieval of information from documents but also enriches the user experience by providing an intuitive and interactive platform for document-based discussions.
